@@ -1,2 +1,2 @@
-# redhat_openshift_repo
-personal redhat  open shift repo
+# DO180-apps
+DO180 Repository for Sample Applications
